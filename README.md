@@ -1,0 +1,1 @@
+this repository is java application project using servlet and jsp technology, and crud and mvc implementation
